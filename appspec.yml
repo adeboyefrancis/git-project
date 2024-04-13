@@ -7,4 +7,4 @@ hooks:
   BeforeInstall:
     - location: scripts/test.sh
     - timeout: 300
-    - runas: root
+    
